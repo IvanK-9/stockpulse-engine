@@ -25,14 +25,29 @@ if os.path.exists(env_path):
                 k, v = line.split("=", 1)
                 os.environ.setdefault(k.strip(), v.strip())
 
-api_id = os.getenv("TG_API_ID")
-api_hash = os.getenv("TG_API_HASH")
-session_str = os.getenv("TG_SESSION_STRING", "").strip()
+api_id_raw = os.getenv("TG_API_ID", "").strip()
+api_hash = os.getenv("TG_API_HASH", "").strip()
+session_str = os.getenv("TG_SESSION_STRING", "").strip().strip("'").strip('"')
 bot_token = os.getenv("TELEGRAM_BOT_TOKEN", "").strip()
 admin_id = os.getenv("ADMIN_TG_ID", "1029387647").strip()
 
-if not api_id or not api_hash:
-    print("[ERROR] TG_API_ID or TG_API_HASH not set.")
+print("=" * 50)
+print(f"[{datetime.now().strftime('%Y-%m-%d %H:%M:%S')}] Starting Quick Radar Scan...")
+print(f"[DIAGNOSTICS] TG_API_ID: {'SET' if api_id_raw else 'MISSING'} ({len(api_id_raw)} chars)")
+print(f"[DIAGNOSTICS] TG_API_HASH: {'SET' if api_hash else 'MISSING'} ({len(api_hash)} chars)")
+print(f"[DIAGNOSTICS] TG_SESSION_STRING: {'SET' if session_str else 'MISSING'} ({len(session_str)} chars)")
+print(f"[DIAGNOSTICS] TELEGRAM_BOT_TOKEN: {'SET' if bot_token else 'MISSING'} ({len(bot_token)} chars)")
+print(f"[DIAGNOSTICS] ADMIN_TG_ID: {admin_id}")
+print("=" * 50)
+
+if not api_id_raw or not api_hash:
+    print("[FATAL] TG_API_ID or TG_API_HASH is missing from GitHub Secrets!")
+    sys.exit(1)
+
+try:
+    api_id = int(api_id_raw)
+except ValueError:
+    print(f"[FATAL] TG_API_ID must be an integer, got: {api_id_raw}")
     sys.exit(1)
 
 TARGET_SELLER_CHATS = [
@@ -137,28 +152,34 @@ async def send_telegram_alert(alert_html: str):
         print(f"[ERR] Failed to send push alert via bot: {e}")
 
 async def run_scan():
-    print(f"[{datetime.now().strftime('%Y-%m-%d %H:%M:%S')}] Starting Quick Radar Scan...")
-
     # Determine session method
     if session_str:
         session = StringSession(session_str)
-        print("[+] Using StringSession from environment.")
+        print("[+] Initializing Telethon with StringSession.")
     else:
         session_file = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "raw_data", "telegram_reader_session")
-        session = session_file
-        print(f"[+] Using local session file: {session_file}")
+        if os.path.exists(f"{session_file}.session"):
+            session = session_file
+            print(f"[+] Initializing Telethon with local session file: {session_file}")
+        else:
+            print("[FATAL] TG_SESSION_STRING is missing in Secrets, and local session file does not exist!")
+            sys.exit(1)
 
-    client = TelegramClient(session, int(api_id), api_hash)
-    await client.connect()
+    client = TelegramClient(session, api_id, api_hash)
+    try:
+        await client.connect()
+    except Exception as e:
+        print(f"[FATAL] Telethon failed to connect to Telegram: {e}")
+        sys.exit(1)
 
     if not await client.is_user_authorized():
-        print("[ERROR] Client is not authorized in Telegram!")
+        print("[FATAL] Telethon client is NOT authorized in Telegram!")
+        print("Please check that TG_SESSION_STRING in GitHub Secrets was copied completely without missing characters.")
         await client.disconnect()
         sys.exit(1)
 
-    print("[✓] Connected & Authorized. Scanning channels...")
+    print("[✓] Connected & Authorized as user. Scanning channels...")
 
-    # Look back 25 minutes to overlap with 20-min cron
     cutoff_time = datetime.now(timezone.utc) - timedelta(minutes=25)
     total_checked = 0
     total_leads = 0
@@ -173,7 +194,6 @@ async def run_scan():
                 if not msg.text:
                     continue
                 if msg.date and msg.date < cutoff_time:
-                    # Message is older than 25 minutes, stop scanning this channel
                     break
 
                 total_checked += 1
@@ -210,7 +230,7 @@ async def run_scan():
                     await send_telegram_alert(alert_html)
                     print(f"[{cat}] Found match in @{ch_name}! Trigger: {trigger}")
         except Exception as e:
-            print(f"[!] Warning on channel @{ch_name}: {e}")
+            print(f"[!] Notice on channel @{ch_name}: {e}")
 
     print(f"\n[✓] Scan complete. Checked {total_checked} recent messages. Found {total_leads} leads.")
     await client.disconnect()
