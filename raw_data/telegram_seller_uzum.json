@@ -1,0 +1,645 @@
+{
+  "target": "seller_uzum",
+  "title": "Чат поставщиков Uzum",
+  "scanned_total": 128,
+  "matched_total": 52,
+  "dump_date": "2026-11-21T09:52:46.203201",
+  "messages": [
+    {
+      "id": 138,
+      "date": "2026-10-26T19:03:31+00:00",
+      "sender_id": 8758572606,
+      "sender_name": "Mr.Lazizbek",
+      "sender_username": null,
+      "text": "кому нужны качественные фото я могу это сделать на низкие цены",
+      "views": null,
+      "matched_keywords": [
+        "цены"
+      ]
+    },
+    {
+      "id": 133,
+      "date": "2026-10-05T13:58:07+00:00",
+      "sender_id": 448828775,
+      "sender_name": "Арсен Люпен",
+      "sender_username": "archiemaster",
+      "text": "Уважаемые коллеги, селлеры. Делаю БЕСПЛАТНЫЙ сервис аналитики по маркетплейсу Uzum. Нужна обратная связь для оптимизации функций, возможностей сервиса, тестирование на ошибки и неточность отчетов. Могу дать полной доступ (от вас только комментарии по работоспособности и функциональности). В будущем планируем добавлять функции ИИ, а именно агент-менеджер, который сможет полностью вести кабинет селлера: аналитику, планирование продаж и поставок и т.д. Вы можете стать одним из первых пользователей. При заинтересованности пишите в личные сообщения.",
+      "views": null,
+      "matched_keywords": [
+        "бот",
+        "uzum"
+      ]
+    },
+    {
+      "id": 131,
+      "date": "2026-10-05T08:56:50+00:00",
+      "sender_id": 8528643740,
+      "sender_name": "Alethon",
+      "sender_username": "Alethon_neo",
+      "text": "Men Uzum sotuvchilari uchun Telegram-bot ishlab chiqyapman — mobil ilovada yo'q narsalarni yopish uchun:\n• FBS: topshirish punktiga muddatga 3 soat va 1 soat qolganda eslatma (jarima summasi bilan)\n• tovarning sof foydasi — komissiya, logistika va soliq ayirilgan holda\n• qaytarilgan tovar pullik saqlashga tushishidan oldin ogohlantirish\n• Uzum uchun kartochka matni o'zbek va rus tilida, kalit so'zlar bilan\n\nSizningcha qaysi biri eng foydali? Ilovada yana nima yetishmaydi, qanday funksiya kerak? Fikringizni yozing 🙂 @SotuvchiYordamBot",
+      "views": null,
+      "matched_keywords": [
+        "uzum"
+      ]
+    },
+    {
+      "id": 123,
+      "date": "2026-09-08T02:31:43+00:00",
+      "sender_id": 8527144288,
+      "sender_name": "Uzum fin",
+      "sender_username": "manejersupport",
+      "text": "Uzum market sotuvchilari! Sizning savdoringizni yangi darajaga olib chiqish vaqti keldi. Tez yetkazib berish, qulay integratsiya va professional support bilan ishingizni osonlashtiramiz. Bizga qo'shiling va mijozlaringizni saqlab qoling! @uzumuzsellerbot",
+      "views": null,
+      "matched_keywords": [
+        "uzum"
+      ]
+    },
+    {
+      "id": 122,
+      "date": "2026-09-07T15:40:37+00:00",
+      "sender_id": 8527144288,
+      "sender_name": "Uzum fin",
+      "sender_username": "manejersupport",
+      "text": "🚀 Uzum sellerlar uchun maxsus bot!\n\nKunlik savdo-sotiq, optom mahsulotlar va buyurtmalarni boshqarish endi yanada oson!\n\n✅ Mahsulot qo'shish va tahrirlash\n✅ Buyurtmalarni nazorat qilish\n✅ Tezkor mijozlar bilan aloqa\n✅ Vaqt va pulni tejash\n\nSotuvchi ishini soddalashtiruvchi eng qulay yordamchi!\n👉 @uzumuzsellerbot",
+      "views": null,
+      "matched_keywords": [
+        "uzum"
+      ]
+    },
+    {
+      "id": 120,
+      "date": "2026-09-07T15:03:47+00:00",
+      "sender_id": 8527144288,
+      "sender_name": "Uzum fin",
+      "sender_username": "manejersupport",
+      "text": "Uzum Market sotuvchilari uchun — muammolaringiz endi tarix! 🚀\n\nUzum Bot — bu sizning sotuvlaringizni avtomatlashtiradigan, buyurtmalarni boshqaradigan va hisobotlarni real vaqtda ko'rsatadigan professional vosita. Ovqatlanish, qadoqlash va yetkazib berish jarayonlarini birla boshqaring — xatolardan xoli, tez va ishonchli!\n\n✅ Buyurtmalar avtomatik kiritiladi\n✅ Ombordagi qoldiqlar doimiy nazoratda\n✅ Statistika — bir tugmada\n\nUzum Market'da o'sishni xohlasangiz, Uzum Bot sizga yordam beradi.\n\n👉 Uzum: @uzumuzsellerbot",
+      "views": null,
+      "matched_keywords": [
+        "uzum"
+      ]
+    },
+    {
+      "id": 119,
+      "date": "2026-09-07T14:31:50+00:00",
+      "sender_id": 8527144288,
+      "sender_name": "Uzum fin",
+      "sender_username": "manejersupport",
+      "text": "🚚 Uzum sotuvchilari uchun eng yaxshi yordamchi!\n\nUzum Bot — bu Uzum marketdagi savdoingizni yanada samarali boshqarish, buyurtmalarni kuzatish va mijozlaringizga tez va qulay xizmat ko'rsatish imkonini beruvchi aqlli asbob. Usta sotuvchilar va tadbirkorlar allaqachon ishonchli hamroh sifatida tanlagan!\n\n📲 Hoziroq ulaning: @uzumuzsellerbot",
+      "views": null,
+      "matched_keywords": [
+        "uzum"
+      ]
+    },
+    {
+      "id": 118,
+      "date": "2026-09-07T13:44:15+00:00",
+      "sender_id": 8527144288,
+      "sender_name": "Uzum fin",
+      "sender_username": "manejersupport",
+      "text": "Siz Uzum marketida sotuvchingizmi? Bizning Uzum Bot buyurtmalaringizni avtomatlashtiradi, analitika taqdim etadi va mijozlaringiz bilan samarali muloqot qilishga yordam beradi. Qulay interfeys va doimiy qo’llab‑quvvatlash bilan ishlashingizni osonlashtiring. Hoziroq qo’shiling: @uzumuzsellerbot",
+      "views": null,
+      "matched_keywords": [
+        "uzum"
+      ]
+    },
+    {
+      "id": 117,
+      "date": "2026-09-07T13:16:36+00:00",
+      "sender_id": 8527144288,
+      "sender_name": "Uzum fin",
+      "sender_username": "manejersupport",
+      "text": "Uzum marketda samarali savdo qilish uchun eng yaxshi yondashuv – @uzumuzsellerbot.  \n\nBu bot sizga buyurtmalarni tez qabul qilish, statistikani kuzatish va mijozlar bilan bevosita muloqot qilish imkonini beradi.  \n\nBarcha jarayonlar bir joyda, vaqt tejaladi, xizmat sifati esa oshiadi.  \n\nHozir qoʻshiling va biznesingizni yangi bosqichga olib chiqing! @uzumuzsellerbot",
+      "views": null,
+      "matched_keywords": [
+        "uzum"
+      ]
+    },
+    {
+      "id": 116,
+      "date": "2026-09-07T06:45:32+00:00",
+      "sender_id": 8527144288,
+      "sender_name": "Uzum fin",
+      "sender_username": "manejersupport",
+      "text": "🎯 Супер новость для продавцов Uzum!\n\nВы тратите часы на рутину — цены, остатки, ответы покупателям? Забирайте себе умного помощника прямо в Telegram, который возьмёт всё на себя:\n\n✅ Авто-ответы покупателям 24/7\n✅ Мгновенное обновление цен и наличия\n✅ Аналитика продаж без таблиц и боли\n✅ Экономия 3–5 часов каждый день\n\n🚀 Подключение — за 1 минуту. Без обучения, без сложных настроек. Просто запустите бота и начните зарабатывать больше, пока конкуренты разбираются в Excel.\n\n👇 Забрать бота: @uzumuzsellerbot",
+      "views": null,
+      "matched_keywords": [
+        "бот",
+        "uzum",
+        "остатки",
+        "цены"
+      ]
+    },
+    {
+      "id": 115,
+      "date": "2026-09-07T04:39:05+00:00",
+      "sender_id": 8527144288,
+      "sender_name": "Uzum fin",
+      "sender_username": "manejersupport",
+      "text": "Tepadagi guruh nomini tahlil qildim: \"Чат поставщиков Uzum\" — bu guruh Uzum market sotuvchilari va tadbirkorlarga mo'ljallangan. Bu 1-loviha (Uzum Bot) auditoriyasiga 100% mos keladi.\n\n---\n\nHurmatli sotuvchilar va tadbirkorlar! 🚀\n\nSizning Uzum marketdagi biznesingizni keyingi bosqichga olib chiqamiz! Endi mahsulotlarni boshqarish, narx va aksiyalarni nazorat qilish, buyurtmalarni o'z vaqtida qabul qilish — barchasi bir joyda, qulay va tez.\n\nUzumda savdoni samarali tashkil qilmoqchimisiz? Biznesingizni zamonaviy texnologiya bilan birlashtiring!\n\n👉 @uzumuzsellerbot",
+      "views": null,
+      "matched_keywords": [
+        "uzum"
+      ]
+    },
+    {
+      "id": 114,
+      "date": "2026-09-07T03:49:06+00:00",
+      "sender_id": 8527144288,
+      "sender_name": "Uzum fin",
+      "sender_username": "manejersupport",
+      "text": "Uzum Market sotuvchilari uchun eng qulay bot — buyurtmalarni boshqarish, statistika va analitika bir joyda. Savdingizni rivojlantirish uchun barcha vositalar sizning qo'lingizda! Sifatli xizmat va tezkor yordam bilan Uzumda savdingiz yangi darajaga chiqadi. @uzumuzsellerbot",
+      "views": null,
+      "matched_keywords": [
+        "uzum"
+      ]
+    },
+    {
+      "id": 113,
+      "date": "2026-09-07T00:53:10+00:00",
+      "sender_id": 8527144288,
+      "sender_name": "Uzum fin",
+      "sender_username": "manejersupport",
+      "text": "Узум botiga qo'sshining to'g'ri! Bu yerda sizga strategik sotuvchi kompaniyalar va qiziqarli zaxtalar ko'rsatiladi. Zaminni olib, biznesini Uzum ekosistemasida rivojlantiring.",
+      "views": null,
+      "matched_keywords": [
+        "uzum"
+      ]
+    },
+    {
+      "id": 112,
+      "date": "2026-09-07T00:22:58+00:00",
+      "sender_id": 8527144288,
+      "sender_name": "Uzum fin",
+      "sender_username": "manejersupport",
+      "text": "Guruh nomi: 'Чат поставщиков Uzum'\n\nTahlil: \"Поставщики\" so'zi Uzum market sotuvchilari va tadbirkorlarning auditoriyasiga ijobat beradi. Bu Uzum Bot loyig'iga 100% mos keladi.\n\n---\n\nUzum Bot bilan hamkorlik qilish orqali sizlaringiz uchun maxsus shartlar, tezkor buyurtma berish va qulay yetkazib berish xizmati taqdim etiladi. Sotuvchilar uchun mo'ljallangan platforma orqali biznesingizni rivojtiring!\n\n@uzumuzsellerbot",
+      "views": null,
+      "matched_keywords": [
+        "uzum"
+      ]
+    },
+    {
+      "id": 110,
+      "date": "2026-09-06T19:45:13+00:00",
+      "sender_id": 8527144288,
+      "sender_name": "Uzum fin",
+      "sender_username": "manejersupport",
+      "text": "🔥 Uzum'da savdoni yangi darajaga olib chiqing! Barcha zarur vositalar bir joyda — buyurtmalar, statistika va analitika oson boshqaruvda.\n\n📦 Sotuvchilar uchun maxsus yechim: vaqt tejamkor, ishonchli va qulay. Biznesingiz o'sishiga kuchliqo'llab qo'llab kelamiz!\n\n👇 Hoziroq qo'shiling va savdoni avtomatlashtiring:\n\nUzum: @uzumuzsellerbot",
+      "views": null,
+      "matched_keywords": [
+        "uzum"
+      ]
+    },
+    {
+      "id": 109,
+      "date": "2026-09-06T15:22:42+00:00",
+      "sender_id": 8527144288,
+      "sender_name": "Uzum fin",
+      "sender_username": "manejersupport",
+      "text": "📦 Uzum Marketda sotishingizni yangi darajaga olib chiqamiz! ✨\n\nSiz Uzum ta'minotchisisiz va ko'proq xaridorga ega bo'lmoqchisizmi? Bizning maxsus bot orqali:\n\n✅ Mahsulotlaringizni tez va oson joylashtiring\n✅ Boshqa sotuvchilar bilan bog'laning va hamkorlik qiling\n✅ Optom va ulgurji takliflarni bir joyda kuzating\n\n👇 Endi boshlash uchun pastdagi tugmani bosing:\n\n👉 @uzumuzsellerbot",
+      "views": null,
+      "matched_keywords": [
+        "uzum"
+      ]
+    },
+    {
+      "id": 105,
+      "date": "2026-09-06T08:28:44+00:00",
+      "sender_id": 8527144288,
+      "sender_name": "Uzum fin",
+      "sender_username": "manejersupport",
+      "text": "Uzum sotuvchilari uchun sifatli mahsulot yetkazib beruvchilar bazasiga ega bo'lishingiz muvaffaqiyat kaliti! Uzum Bot — bu yangi hamkorlarni topish, takroriy buyurtmalarni boshqarish va savdo hajmini oshirish uchun eng yaxshi yechim. Oddiy interfeys va tez javob tizimi bilan sizing ish samaradorligingiz yangi darajaga ko'tariladi. Biznesingiz rivoji uchun ishonchli vosita — allaqachon minglab sotuvchilar tanlovi!\n\nUzum: @uzumuzsellerbot",
+      "views": null,
+      "matched_keywords": [
+        "uzum"
+      ]
+    },
+    {
+      "id": 104,
+      "date": "2026-09-05T23:52:41+00:00",
+      "sender_id": 8527144288,
+      "sender_name": "Uzum fin",
+      "sender_username": "manejersupport",
+      "text": "🚚 Uzum Marketda savdo hajmingizni oshirishga tayyormisiz?\n\nSizga Uzum sotuvchilari uchun maxsus bot — tez vaqulay yordamchi! Statistika, buyurtmalar va analitika bitta joyda. Uzum Marketda biznesingizni yangi darajaga olib chiqing.\n\n👨‍💼 Uzum Market sotuvchilari uchun — ishonchli servis, sifatli xizmat!\n\n📲 Uzum: @uzumuzsellerbot",
+      "views": null,
+      "matched_keywords": [
+        "uzum"
+      ]
+    },
+    {
+      "id": 103,
+      "date": "2026-09-05T16:40:38+00:00",
+      "sender_id": 8527144288,
+      "sender_name": "Uzum fin",
+      "sender_username": "manejersupport",
+      "text": "Uzum Market sotuvchilari uchun eng quvvatli asbob — Uzum Bot! Optom buyurtmalarni tez va oson boshqaring, statistikangizni kuniga bir necha marta kuzating, savdo samaradorligingizni oshiring. Usta sifatida doimiy mijozlar va ertangisining muvaffaqiyati — mana nima taklif qilamiz. @uzumuzsellerbot bilan raqobatda oldinda bo'ling!",
+      "views": null,
+      "matched_keywords": [
+        "uzum"
+      ]
+    },
+    {
+      "id": 102,
+      "date": "2026-09-05T15:30:03+00:00",
+      "sender_id": 8527144288,
+      "sender_name": "Uzum fin",
+      "sender_username": "manejersupport",
+      "text": "🚚 Uzum sotuvchilari uchun muammoga duch qoldingizmi?\n\nSizga eng yaxshi mahsulot yetkazib beruvchilarni qidiryapsizmi? Uzum Bot — bu sizning eng ishonchli hamkoringiz! Barcha kategoriyalar bo'yicha sifatli va ishonchli поставщиклар bilan to'ldiring savdo do'konlaringizni.\n\n📦 Nima uchun aynan biz?\n\n✅ Keng assortiment — har qanday mahsulot turi\n✅ Tez va ishonchli aloqalar\n✅ Savdo hajmingizni oshirish imkoniyati\n\n👉 Qo'shimcha ma'lumot: @uzumuzsellerbot",
+      "views": null,
+      "matched_keywords": [
+        "uzum"
+      ]
+    },
+    {
+      "id": 101,
+      "date": "2026-09-05T09:59:12+00:00",
+      "sender_id": 8527144288,
+      "sender_name": "Uzum fin",
+      "sender_username": "manejersupport",
+      "text": "🔔 Uzum marketdagi savdo-ingizni avtomatlashtirib, vaqtingizni 3 baravar tejang!\n\nHurmatli sotuvchilar va tadbirkorlar! Har kuni mahsulot rasmiylashtirish, narx yangilash, jo'natmalarni kuzatish va mijozlarga javob berish bilan shug'ullanib vaqtingiz ketayaptimi?\n\n✅ Uzum Seller Bot — Uzum Market’dagi barcha jarayonlaringizni birlashtiruvchi yagona yordamchi!\n✅ Buyurtmalar avtomatik qabul qilinadi\n✅ Mahsulot va narxlarni bir joydan boshqarasiz\n✅ Mijjozlarga tezkor xabar yuborish — qo'lda yozish shart emas\n✅ Hisobot va statistika — qaysi mahsulot yaxshi sotilayotganini ko'rasiz\n\nSiz faqat savdo bilan shug'ullaning — qolganini bizning bot sizning o'rniga qilib beradi!\n\n🚀 Boshlash uchun: @uzumuzsellerbot\nYoki tafsilotlar: @uzumuzsellerbot\n\nHozir ulaning va Uzum’dagi biznesingizni yangi bosqichga olib chiqing!",
+      "views": null,
+      "matched_keywords": [
+        "uzum"
+      ]
+    },
+    {
+      "id": 100,
+      "date": "2026-09-05T08:13:41+00:00",
+      "sender_id": 8527144288,
+      "sender_name": "Uzum fin",
+      "sender_username": "manejersupport",
+      "text": "🛒 Uzum Marketda savolingiz bormi? Bizning bot yechim topadi!\n\nSizga Uzum Marketda samarali sotuv strategiyasi, optom buyurtmalarni boshqarish va biznesni kengaytirish yo'llarini ko'rsatamiz. Bot orqali barcha zarur vositalar bir joyda — tez, qulay va 100% foydalanishga tayyor!\n\n📦 Nima uchun bizni tanlashingiz kerak:\n✅ Uzum Market sotuvchilari uchun maxsus ishlab chiqilgan\n✅ Optom savdo va tadbirkorlik uchun ideal yechim\n✅ Boshqaruvi oson, vaqt va kuch tejaydi\n✅ Doimiy qo'llab-quvvatlash va yangilanishlar\n\nUzum Marketda muvaffaqiyat sari birgina bosqich — @uzumuzsellerbot 🚀",
+      "views": null,
+      "matched_keywords": [
+        "uzum"
+      ]
+    },
+    {
+      "id": 99,
+      "date": "2026-09-05T05:12:49+00:00",
+      "sender_id": 8527144288,
+      "sender_name": "Uzum fin",
+      "sender_username": "manejersupport",
+      "text": "📦 Uzum'da sotuvchisiz, lekin optimal taklif topa olmaysizmi? Bizning bot — bu sizning eng tez va ishonchli yordamchingiz! Ombordan to'g'ridan-to'g'ri mahsulot tanlov, qisqa muddatda yetkazib berish va shaffof shartnomalar bilan ishlaydi. Uzum bozorida samarali savdo qilish uchun bitta bot kifoya! 🚀\n\nUzum: @uzumuzsellerbot",
+      "views": null,
+      "matched_keywords": [
+        "uzum"
+      ]
+    },
+    {
+      "id": 98,
+      "date": "2026-09-05T03:14:54+00:00",
+      "sender_id": 8527144288,
+      "sender_name": "Uzum fin",
+      "sender_username": "manejersupport",
+      "text": "🚀 Uzum marketda savdo qilyapsizmi? Tovaringizni yanada tezroq va samaraliroq tarzda boshqarishni xohlaysizmi?\n\nEndi barchasi yanada oson! Uzum Seller Bot yordamida:\n✅ Mahsulotlarni tez boshqarish\n✅ Buyurtmalarni oson kuzatish\n✅ Savdo statistikasini bir zumda ko‘rish\n\nBoshqa sotuvchilardan bir qadam oldinda bo‘ling! 👇\n👉 @uzumuzsellerbot",
+      "views": null,
+      "matched_keywords": [
+        "uzum"
+      ]
+    },
+    {
+      "id": 97,
+      "date": "2026-09-04T18:39:21+00:00",
+      "sender_id": 8527144288,
+      "sender_name": "Uzum fin",
+      "sender_username": "manejersupport",
+      "text": "Tahlil:\nGuruh nomi: \"Чат поставщиков Uzum\" (Uzum yetkazib beruvchilari chati).\nAuditoriya: Uzum market sotuvchilari, tadbirkorlar, optom bozor vakillari.\nBu segment \"Uzum Bot\" loyihasiga 100% mos keladi.\n\n---\n\n🔥 Uzumda savdoni osmonga ko'taring!\n\nHurmatli sotuvchilar va tadbirkorlar! Uzum marketda mahsulotlaringizni yanada samarali boshqarishni xohlaysizmi? \n\n✅ Mahsulot qo'shish va tahrirlash — bir necha soniyada\n✅ Buyurtmalarni avtomatik nazorat qilish\n✅ Mijozlar bilan tezkor aloqa va savdo statistikasi\n✅ Doimiy texnik yordam va qulay interfeys\n\nIshingizni yengillashtiruvchi va vaqtingizni tejovchi yordamchi — Uzum Seller Bot endi sizning cho'ntagingizda!\n\n👇 Batafsil ma'lumot va boshlash uchun: @uzumuzsellerbot",
+      "views": null,
+      "matched_keywords": [
+        "uzum"
+      ]
+    },
+    {
+      "id": 96,
+      "date": "2026-09-04T17:55:57+00:00",
+      "sender_id": 8527144288,
+      "sender_name": "Uzum fin",
+      "sender_username": "manejersupport",
+      "text": "🚚 Uzum Market sotuvchilari uchun muvaffaqiyat kaliti — shu yerda!\nSavdo hajmingizni oshirish, optom xaridorlar bilan to'g'ridan-to'g'ri bog'lanish va optom bozor imkoniyatlarini bir zumda kashf etish uchun eng qulay va tezkor yo'l — @uzumuzsellerbot bilan! Sizning biznesingiz yangi bosqichga ko'tarilsin. Uzum: @uzumuzsellerbot",
+      "views": null,
+      "matched_keywords": [
+        "uzum"
+      ]
+    },
+    {
+      "id": 95,
+      "date": "2026-09-04T16:30:08+00:00",
+      "sender_id": 8527144288,
+      "sender_name": "Uzum fin",
+      "sender_username": "manejersupport",
+      "text": "🔥 Sizning Uzum'dagi muvaffaqiyatingiz — endi yanada oson!\n\nHurmatli sotuvchilar va tadbirkorlar! Mahsulotlaringizni Uzum marketda tezroq va samaraliroq boshqarishni xohlaysizmi? Endi barcha kerakli funksiyalar — bir qulay botda! ✅ Mahsulot qo'shish va tahrirlash — bir necha soniyada. ✅ Savdo va statistikani kuzatib boring. ✅ Sifatli va tezkor xizmat — sizning biznesingiz uchun!\n\n🚀 Uzimda o'sishni xohlovchanlar uchun eng yaxshi yechim!\n\n👉 Botga kirish: @uzumuzsellerbot",
+      "views": null,
+      "matched_keywords": [
+        "uzum"
+      ]
+    },
+    {
+      "id": 94,
+      "date": "2026-09-04T09:04:34+00:00",
+      "sender_id": 8527144288,
+      "sender_name": "Uzum fin",
+      "sender_username": "manejersupport",
+      "text": "✅ Uzum Market sotuvchilari uchun eng kuchli yordamchi — @uzumuzsellerbot\n\n📦 Buyurtmalarni boshqarish, analitika va avtomatizatsiya — barchasi bir joyda. Zo'r servis, qo'lda charchamay ishlash imkoniyati.\n\n💡 Har bir sotuvchi uchun qulay va tez interface. Savdo sifati oshadi, vaqt tejaladi!\n\n👉 @uzumuzsellerbot — Uzumda sizning muvaffaqiyatingiz boshlanishi! 🚀",
+      "views": null,
+      "matched_keywords": [
+        "uzum"
+      ]
+    },
+    {
+      "id": 93,
+      "date": "2026-09-04T04:01:28+00:00",
+      "sender_id": 8527144288,
+      "sender_name": "Uzum fin",
+      "sender_username": "manejersupport",
+      "text": "📦 Uzum sotuvchilari uchun eng foydali bot! Barcha zarur vositalar bir joyda — buyurtmalarni boshqarish, analitika va tezkor yordam. Kuniga 24 soat faol qo'llab-quvvatlash va sodda interfeys. Biznesingizni yangi darajaga olib chiqing!\n\n👉 @uzumuzsellerbot",
+      "views": null,
+      "matched_keywords": [
+        "uzum"
+      ]
+    },
+    {
+      "id": 86,
+      "date": "2026-09-03T02:00:49+00:00",
+      "sender_id": 8527144288,
+      "sender_name": "Uzum fin",
+      "sender_username": "manejersupport",
+      "text": "Uzum market bilan savdo qiluvchilar uchun eng ishonchli yordamchi endi sizning cho'ntagingizda! 📦\n\n🔥 Mahsulot qabul qilish, narx va tahlil — hammasi bitta botda.\n⚡ Tez, qulay va sodda. Har bir sotuvchining ish yordamchisi.\n\n👇 Boshlash uchun:\n👉 @uzumuzsellerbot\n\nBatafsil: @uzumuzsellerbot",
+      "views": null,
+      "matched_keywords": [
+        "uzum"
+      ]
+    },
+    {
+      "id": 85,
+      "date": "2026-09-02T05:26:06+00:00",
+      "sender_id": 8527144288,
+      "sender_name": "Uzum fin",
+      "sender_username": "manejersupport",
+      "text": "🔔 Сотрудничаешь с Uzum Market?\n\nТогда тебе нужен наш бот, который автоматизирует всё, что отнимает время:\n\n✅ Умная аналитика продаж\n✅ Контроль остатков и цен\n✅ Быстрые ответы покупателям\n✅ Уведомления о новых заказах 24/7\n\nЭкономь часы каждый день — продавай эффективнее, а не больше.\n\n📩 Подробности и подключение: @uzumuzsellerbot",
+      "views": null,
+      "matched_keywords": [
+        "бот",
+        "uzum"
+      ]
+    },
+    {
+      "id": 84,
+      "date": "2026-09-02T04:42:08+00:00",
+      "sender_id": 8527144288,
+      "sender_name": "Uzum fin",
+      "sender_username": "manejersupport",
+      "text": "🚚 Uzum'da savdongizni yangi darajaga olib chiqing!\n\nUzum Bot — bu sizning eng ishonchli yordamchingiz. Uzum Market'da sotuvlaringizni avtomatlashtirish, buyurtmalarni boshqarish va mijozlaringizga tez va sifatli xizmat ko'rsatish uchun mo'ljallangan zamonaviy vosita. Tumanni unuting — har birbitimizda tezlik, qulaylik va professionallik.\n\n✅ Uzum Market sotuvchilari uchun maxsus yechim\n✅ Buyurtmalarni onlayn kuzatish va boshqarish\n✅ Doimiy qo'llab-quvvatlash va yangilanishlar\n\nUzum Market'da raqobatbardosh bo'lish uchun shu kungiz boshlang!\n\n📲 Uzum: @uzumuzsellerbot",
+      "views": null,
+      "matched_keywords": [
+        "uzum"
+      ]
+    },
+    {
+      "id": 83,
+      "date": "2026-09-02T00:15:00+00:00",
+      "sender_id": 8527144288,
+      "sender_name": "Uzum fin",
+      "sender_username": "manejersupport",
+      "text": "Sotuvlaringiz yangi darajaga chiqsin! Uzum Bot — ishonchli yordamchi, katta bozor va qulay xizmatlar bilan. Sifat va qulaylik — bizning afzallikimiz! 🚀\n👉 @uzumuzsellerbot",
+      "views": null,
+      "matched_keywords": [
+        "uzum"
+      ]
+    },
+    {
+      "id": 82,
+      "date": "2026-09-01T16:10:22+00:00",
+      "sender_id": 8527144288,
+      "sender_name": "Uzum fin",
+      "sender_username": "manejersupport",
+      "text": "Tahlil: \"Чат поставщиков Uzum\" — bu Uzum Market sotuvchilari va tadbirkorlarga mo'ljallangan guruh. Bu to'g'ridan-to'g'ri Uzum Bot loyihasi auditoriyasiga mos keladi.\n\n---\n\n🚀 Uzum marketda soting — biznesingizni avtomatlashtiring!\n\nSizning vaqtingiz — qimmatli. Mahsulot qabul qilish, narx yangilash, buyurtmalarni qayta ishlash, mijozlar bilan yozishish... Hammasi ortiqcha!\n\n✅ @uzumuzsellerbot — sizning shaxsiy yordamchingiz. Uzum do'koningizni Telegram orqali boshqaring: statistika, yangi buyurtmalar, savdo-sotiq va optom bozordagi eng so'nggi yangiliklar — barchasi bir joyda!\n\n🔹 Tez ishlaydi\n🔹 Oson va tushunarli interfeys\n🔹 Har qanday tadbirkor va savdogar uchun qulay\n\n📩 Boshlash uchun: @uzumuzsellerbot\n\nDo'koringizni keyingi bosqichga olib chiqing — bepul sinab ko'ring!",
+      "views": null,
+      "matched_keywords": [
+        "uzum"
+      ]
+    },
+    {
+      "id": 81,
+      "date": "2026-09-01T15:28:38+00:00",
+      "sender_id": 8527144288,
+      "sender_name": "Uzum fin",
+      "sender_username": "manejersupport",
+      "text": "Tahlil: \"Чат поставщиков Uzum\" — bu Uzum market sotuvchilari va tadbirkorlar uchun maxsus guruh. Auditoriya aniq Uzum Bot loyihasiga 100% mos keladi.\n\n---\n\n🚀 Hurmatli sotuvchilar va tadbirkorlar!\n\nUzum marketda savdoni avtomatlashtirishni xohlaysizmi? Vaqtingizni tejaydigan, mijozlarni yo'qotmaydigan va 24/7 ishlaydigan aqlli yordamchi endi siz bilan! 🤖✨\n\nMahsulotlaringizni tezroq boshqaring, savolarni bir lahzada hal qiling va biznesingizni yangi bosqichga olib chiqing. Professional servis, qulay interfeys va ishonchli yechim — barchasi bir botda! 💼🔥\n\n👉 Boshlash uchun: @uzumuzsellerbot",
+      "views": null,
+      "matched_keywords": [
+        "uzum"
+      ]
+    },
+    {
+      "id": 72,
+      "date": "2026-08-29T05:14:06+00:00",
+      "sender_id": 8527144288,
+      "sender_name": "Uzum fin",
+      "sender_username": "manejersupport",
+      "text": "🔥 Uzum Marketda savdo qilasiz, lekin qayerdadir pulingiz \"yeyilayotganini\" sezasizmi?\n\nTasavvur qiling: siz yangi tovarlar olib kelyapsiz, savdolar ketyapti... Lekin oy oxirida hisob-kitob qilsangiz, cho'ntakda kutilgan daromad yo'q. Tanish holatmi?\n\nKo'pchilik Uzum sellerlarining eng katta dushmani — bu ko'zga ko'rinmas yo'qotishlar:\n❌ Omborga yuborilgan, lekin qabul qilinmagan tovarlar;\n❌ Mijoz qaytargan, lekin omborga qaytib tushmagan mahsulotlar;\n❌ Noto'g'ri hisoblangan logistika yoki ortiqcha ushlangan komissiyalar...\n\nBiz aynan shu muammolarni avtomatlashtirilgan tarzda hal qilish uchun Uzum-Seller-FinBot ni yaratdik. Bizning maqsadimiz — sizning yo'qotilgan pullaringizni qidirib topish va ularni qaytarib olishingiz uchun tayyor da'vo (pretenziya) hujjatlarini chiqarib berish.\n\n🔥 6 xil chuqurlashtirilgan moliyaviy audit\n🔥 To'liq avtomatlashtirilgan tizim\n🔥 Oyiga atigi 99 000 so'm\n\nKutib turing, hozir hech qanday to'lov qilmaysiz. Biz sizga 3 KUNLIK TO'LIQ BEPUL SINOV beramiz. \n\n👉 Hoziroq botga kiring va birinchi auditingizni bepul oling: @uzumuzsellerbot\n📞 Bog'lanish: @manejersupport",
+      "views": null,
+      "matched_keywords": [
+        "uzum"
+      ]
+    },
+    {
+      "id": 71,
+      "date": "2026-08-29T01:59:51+00:00",
+      "sender_id": 8527144288,
+      "sender_name": "Uzum fin",
+      "sender_username": "manejersupport",
+      "text": "🔥 Uzum Marketda savdo qilasiz, lekin qayerdadir pulingiz \"yeyilayotganini\" sezasizmi?\n\nTasavvur qiling: siz yangi tovarlar olib kelyapsiz, savdolar ketyapti... Lekin oy oxirida hisob-kitob qilsangiz, cho'ntakda kutilgan daromad yo'q. Tanish holatmi?\n\nKo'pchilik Uzum sellerlarining eng katta dushmani — bu ko'zga ko'rinmas yo'qotishlar:\n❌ Omborga yuborilgan, lekin qabul qilinmagan tovarlar;\n❌ Mijoz qaytargan, lekin omborga qaytib tushmagan mahsulotlar;\n❌ Noto'g'ri hisoblangan logistika yoki ortiqcha ushlangan komissiyalar...\n\nBiz aynan shu muammolarni avtomatlashtirilgan tarzda hal qilish uchun Uzum-Seller-FinBot ni yaratdik. Bizning maqsadimiz — sizning yo'qotilgan pullaringizni qidirib topish va ularni qaytarib olishingiz uchun tayyor da'vo (pretenziya) hujjatlarini chiqarib berish.\n\n🔥 6 xil chuqurlashtirilgan moliyaviy audit\n🔥 To'liq avtomatlashtirilgan tizim\n🔥 Oyiga atigi 99 000 so'm\n\nKutib turing, hozir hech qanday to'lov qilmaysiz. Biz sizga 3 KUNLIK TO'LIQ BEPUL SINOV beramiz. \n\n👉 Hoziroq botga kiring va birinchi auditingizni bepul oling: @uzumuzsellerbot\n📞 Bog'lanish: @manejersupport",
+      "views": null,
+      "matched_keywords": [
+        "uzum"
+      ]
+    },
+    {
+      "id": 70,
+      "date": "2026-08-28T17:31:46+00:00",
+      "sender_id": 8527144288,
+      "sender_name": "Uzum fin",
+      "sender_username": "manejersupport",
+      "text": "🔥 Uzum Marketda savdo qilasiz, lekin qayerdadir pulingiz \"yeyilayotganini\" sezasizmi?\n\nTasavvur qiling: siz yangi tovarlar olib kelyapsiz, savdolar ketyapti... Lekin oy oxirida hisob-kitob qilsangiz, cho'ntakda kutilgan daromad yo'q. Tanish holatmi?\n\nKo'pchilik Uzum sellerlarining eng katta dushmani — bu ko'zga ko'rinmas yo'qotishlar:\n❌ Omborga yuborilgan, lekin qabul qilinmagan tovarlar;\n❌ Mijoz qaytargan, lekin omborga qaytib tushmagan mahsulotlar;\n❌ Noto'g'ri hisoblangan logistika yoki ortiqcha ushlangan komissiyalar...\n\nBiz aynan shu muammolarni avtomatlashtirilgan tarzda hal qilish uchun Uzum-Seller-FinBot ni yaratdik. Bizning maqsadimiz — sizning yo'qotilgan pullaringizni qidirib topish va ularni qaytarib olishingiz uchun tayyor da'vo (pretenziya) hujjatlarini chiqarib berish.\n\n🔥 6 xil chuqurlashtirilgan moliyaviy audit\n🔥 To'liq avtomatlashtirilgan tizim\n🔥 Oyiga atigi 99 000 so'm\n\nKutib turing, hozir hech qanday to'lov qilmaysiz. Biz sizga 3 KUNLIK TO'LIQ BEPUL SINOV beramiz. \n\n👉 Hoziroq botga kiring va birinchi auditingizni bepul oling: @uzumuzsellerbot\n📞 Bog'lanish: @manejersupport",
+      "views": null,
+      "matched_keywords": [
+        "uzum"
+      ]
+    },
+    {
+      "id": 69,
+      "date": "2026-08-28T10:44:36+00:00",
+      "sender_id": 8527144288,
+      "sender_name": "Uzum fin",
+      "sender_username": "manejersupport",
+      "text": "🔥 Uzum Marketda savdo qilasiz, lekin qayerdadir pulingiz \"yeyilayotganini\" sezasizmi?\n\nTasavvur qiling: siz yangi tovarlar olib kelyapsiz, savdolar ketyapti... Lekin oy oxirida hisob-kitob qilsangiz, cho'ntakda kutilgan daromad yo'q. Tanish holatmi?\n\nKo'pchilik Uzum sellerlarining eng katta dushmani — bu ko'zga ko'rinmas yo'qotishlar:\n❌ Omborga yuborilgan, lekin qabul qilinmagan tovarlar;\n❌ Mijoz qaytargan, lekin omborga qaytib tushmagan mahsulotlar;\n❌ Noto'g'ri hisoblangan logistika yoki ortiqcha ushlangan komissiyalar...\n\nBiz aynan shu muammolarni avtomatlashtirilgan tarzda hal qilish uchun Uzum-Seller-FinBot ni yaratdik. Bizning maqsadimiz — sizning yo'qotilgan pullaringizni qidirib topish va ularni qaytarib olishingiz uchun tayyor da'vo (pretenziya) hujjatlarini chiqarib berish.\n\n🔥 6 xil chuqurlashtirilgan moliyaviy audit\n🔥 To'liq avtomatlashtirilgan tizim\n🔥 Oyiga atigi 99 000 so'm\n\nKutib turing, hozir hech qanday to'lov qilmaysiz. Biz sizga 3 KUNLIK TO'LIQ BEPUL SINOV beramiz. \n\n👉 Hoziroq botga kiring va birinchi auditingizni bepul oling: @uzumuzsellerbot\n📞 Bog'lanish: @manejersupport",
+      "views": null,
+      "matched_keywords": [
+        "uzum"
+      ]
+    },
+    {
+      "id": 68,
+      "date": "2026-08-28T06:07:55+00:00",
+      "sender_id": 8527144288,
+      "sender_name": "Uzum fin",
+      "sender_username": "manejersupport",
+      "text": "🔥 Uzum Marketda savdo qilasiz, lekin qayerdadir pulingiz \"yeyilayotganini\" sezasizmi?\n\nTasavvur qiling: siz yangi tovarlar olib kelyapsiz, savdolar ketyapti... Lekin oy oxirida hisob-kitob qilsangiz, cho'ntakda kutilgan daromad yo'q. Tanish holatmi?\n\nKo'pchilik Uzum sellerlarining eng katta dushmani — bu ko'zga ko'rinmas yo'qotishlar:\n❌ Omborga yuborilgan, lekin qabul qilinmagan tovarlar;\n❌ Mijoz qaytargan, lekin omborga qaytib tushmagan mahsulotlar;\n❌ Noto'g'ri hisoblangan logistika yoki ortiqcha ushlangan komissiyalar...\n\nBiz aynan shu muammolarni avtomatlashtirilgan tarzda hal qilish uchun Uzum-Seller-FinBot ni yaratdik. Bizning maqsadimiz — sizning yo'qotilgan pullaringizni qidirib topish va ularni qaytarib olishingiz uchun tayyor da'vo (pretenziya) hujjatlarini chiqarib berish.\n\n🔥 6 xil chuqurlashtirilgan moliyaviy audit\n🔥 To'liq avtomatlashtirilgan tizim\n🔥 Oyiga atigi 99 000 so'm\n\nKutib turing, hozir hech qanday to'lov qilmaysiz. Biz sizga 3 KUNLIK TO'LIQ BEPUL SINOV beramiz. \n\n👉 Hoziroq botga kiring va birinchi auditingizni bepul oling: @uzumuzsellerbot\n📞 Bog'lanish: @manejersupport",
+      "views": null,
+      "matched_keywords": [
+        "uzum"
+      ]
+    },
+    {
+      "id": 67,
+      "date": "2026-08-28T03:54:42+00:00",
+      "sender_id": 8527144288,
+      "sender_name": "Uzum fin",
+      "sender_username": "manejersupport",
+      "text": "🔥 Uzum Marketda savdo qilasiz, lekin qayerdadir pulingiz \"yeyilayotganini\" sezasizmi?\n\nTasavvur qiling: siz yangi tovarlar olib kelyapsiz, savdolar ketyapti... Lekin oy oxirida hisob-kitob qilsangiz, cho'ntakda kutilgan daromad yo'q. Tanish holatmi?\n\nKo'pchilik Uzum sellerlarining eng katta dushmani — bu ko'zga ko'rinmas yo'qotishlar:\n❌ Omborga yuborilgan, lekin qabul qilinmagan tovarlar;\n❌ Mijoz qaytargan, lekin omborga qaytib tushmagan mahsulotlar;\n❌ Noto'g'ri hisoblangan logistika yoki ortiqcha ushlangan komissiyalar...\n\nBiz aynan shu muammolarni avtomatlashtirilgan tarzda hal qilish uchun Uzum-Seller-FinBot ni yaratdik. Bizning maqsadimiz — sizning yo'qotilgan pullaringizni qidirib topish va ularni qaytarib olishingiz uchun tayyor da'vo (pretenziya) hujjatlarini chiqarib berish.\n\n🔥 6 xil chuqurlashtirilgan moliyaviy audit\n🔥 To'liq avtomatlashtirilgan tizim\n🔥 Oyiga atigi 99 000 so'm\n\nKutib turing, hozir hech qanday to'lov qilmaysiz. Biz sizga 3 KUNLIK TO'LIQ BEPUL SINOV beramiz. \n\n👉 Hoziroq botga kiring va birinchi auditingizni bepul oling: @uzumuzsellerbot\n📞 Bog'lanish: @manejersupport",
+      "views": null,
+      "matched_keywords": [
+        "uzum"
+      ]
+    },
+    {
+      "id": 66,
+      "date": "2026-08-27T22:34:27+00:00",
+      "sender_id": 8527144288,
+      "sender_name": "Uzum fin",
+      "sender_username": "manejersupport",
+      "text": "🔥 Uzum Marketda savdo qilasiz, lekin qayerdadir pulingiz \"yeyilayotganini\" sezasizmi?\n\nTasavvur qiling: siz yangi tovarlar olib kelyapsiz, savdolar ketyapti... Lekin oy oxirida hisob-kitob qilsangiz, cho'ntakda kutilgan daromad yo'q. Tanish holatmi?\n\nKo'pchilik Uzum sellerlarining eng katta dushmani — bu ko'zga ko'rinmas yo'qotishlar:\n❌ Omborga yuborilgan, lekin qabul qilinmagan tovarlar;\n❌ Mijoz qaytargan, lekin omborga qaytib tushmagan mahsulotlar;\n❌ Noto'g'ri hisoblangan logistika yoki ortiqcha ushlangan komissiyalar...\n\nBiz aynan shu muammolarni avtomatlashtirilgan tarzda hal qilish uchun Uzum-Seller-FinBot ni yaratdik. Bizning maqsadimiz — sizning yo'qotilgan pullaringizni qidirib topish va ularni qaytarib olishingiz uchun tayyor da'vo (pretenziya) hujjatlarini chiqarib berish.\n\n🔥 6 xil chuqurlashtirilgan moliyaviy audit\n🔥 To'liq avtomatlashtirilgan tizim\n🔥 Oyiga atigi 99 000 so'm\n\nKutib turing, hozir hech qanday to'lov qilmaysiz. Biz sizga 3 KUNLIK TO'LIQ BEPUL SINOV beramiz. \n\n👉 Hoziroq botga kiring va birinchi auditingizni bepul oling: @uzumuzsellerbot\n📞 Bog'lanish: @manejersupport",
+      "views": null,
+      "matched_keywords": [
+        "uzum"
+      ]
+    },
+    {
+      "id": 65,
+      "date": "2026-08-27T20:53:17+00:00",
+      "sender_id": 8527144288,
+      "sender_name": "Uzum fin",
+      "sender_username": "manejersupport",
+      "text": "🔥 Uzum Marketda savdo qilasiz, lekin qayerdadir pulingiz \"yeyilayotganini\" sezasizmi?\n\nTasavvur qiling: siz yangi tovarlar olib kelyapsiz, savdolar ketyapti... Lekin oy oxirida hisob-kitob qilsangiz, cho'ntakda kutilgan daromad yo'q. Tanish holatmi?\n\nKo'pchilik Uzum sellerlarining eng katta dushmani — bu ko'zga ko'rinmas yo'qotishlar:\n❌ Omborga yuborilgan, lekin qabul qilinmagan tovarlar;\n❌ Mijoz qaytargan, lekin omborga qaytib tushmagan mahsulotlar;\n❌ Noto'g'ri hisoblangan logistika yoki ortiqcha ushlangan komissiyalar...\n\nBiz aynan shu muammolarni avtomatlashtirilgan tarzda hal qilish uchun Uzum-Seller-FinBot ni yaratdik. Bizning maqsadimiz — sizning yo'qotilgan pullaringizni qidirib topish va ularni qaytarib olishingiz uchun tayyor da'vo (pretenziya) hujjatlarini chiqarib berish.\n\n🔥 6 xil chuqurlashtirilgan moliyaviy audit\n🔥 To'liq avtomatlashtirilgan tizim\n🔥 Oyiga atigi 99 000 so'm\n\nKutib turing, hozir hech qanday to'lov qilmaysiz. Biz sizga 3 KUNLIK TO'LIQ BEPUL SINOV beramiz. \n\n👉 Hoziroq botga kiring va birinchi auditingizni bepul oling: @uzumuzsellerbot\n📞 Bog'lanish: @manejersupport",
+      "views": null,
+      "matched_keywords": [
+        "uzum"
+      ]
+    },
+    {
+      "id": 64,
+      "date": "2026-08-27T16:40:39+00:00",
+      "sender_id": 8527144288,
+      "sender_name": "Uzum fin",
+      "sender_username": "manejersupport",
+      "text": "🔥 Uzum Marketda savdo qilasiz, lekin qayerdadir pulingiz \"yeyilayotganini\" sezasizmi?\n\nTasavvur qiling: siz yangi tovarlar olib kelyapsiz, savdolar ketyapti... Lekin oy oxirida hisob-kitob qilsangiz, cho'ntakda kutilgan daromad yo'q. Tanish holatmi?\n\nKo'pchilik Uzum sellerlarining eng katta dushmani — bu ko'zga ko'rinmas yo'qotishlar:\n❌ Omborga yuborilgan, lekin qabul qilinmagan tovarlar;\n❌ Mijoz qaytargan, lekin omborga qaytib tushmagan mahsulotlar;\n❌ Noto'g'ri hisoblangan logistika yoki ortiqcha ushlangan komissiyalar...\n\nBiz aynan shu muammolarni avtomatlashtirilgan tarzda hal qilish uchun Uzum-Seller-FinBot ni yaratdik. Bizning maqsadimiz — sizning yo'qotilgan pullaringizni qidirib topish va ularni qaytarib olishingiz uchun tayyor da'vo (pretenziya) hujjatlarini chiqarib berish.\n\n🔥 6 xil chuqurlashtirilgan moliyaviy audit\n🔥 To'liq avtomatlashtirilgan tizim\n🔥 Oyiga atigi 99 000 so'm\n\nKutib turing, hozir hech qanday to'lov qilmaysiz. Biz sizga 3 KUNLIK TO'LIQ BEPUL SINOV beramiz. \n\n👉 Hoziroq botga kiring va birinchi auditingizni bepul oling: @uzumuzsellerbot\n📞 Bog'lanish: @manejersupport",
+      "views": null,
+      "matched_keywords": [
+        "uzum"
+      ]
+    },
+    {
+      "id": 63,
+      "date": "2026-08-27T14:45:50+00:00",
+      "sender_id": 8527144288,
+      "sender_name": "Uzum fin",
+      "sender_username": "manejersupport",
+      "text": "🔥 Uzum Marketda savdo qilasiz, lekin qayerdadir pulingiz \"yeyilayotganini\" sezasizmi?\n\nTasavvur qiling: siz yangi tovarlar olib kelyapsiz, savdolar ketyapti... Lekin oy oxirida hisob-kitob qilsangiz, cho'ntakda kutilgan daromad yo'q. Tanish holatmi?\n\nKo'pchilik Uzum sellerlarining eng katta dushmani — bu ko'zga ko'rinmas yo'qotishlar:\n❌ Omborga yuborilgan, lekin qabul qilinmagan tovarlar;\n❌ Mijoz qaytargan, lekin omborga qaytib tushmagan mahsulotlar;\n❌ Noto'g'ri hisoblangan logistika yoki ortiqcha ushlangan komissiyalar...\n\nBiz aynan shu muammolarni avtomatlashtirilgan tarzda hal qilish uchun Uzum-Seller-FinBot ni yaratdik. Bizning maqsadimiz — sizning yo'qotilgan pullaringizni qidirib topish va ularni qaytarib olishingiz uchun tayyor da'vo (pretenziya) hujjatlarini chiqarib berish.\n\n🔥 6 xil chuqurlashtirilgan moliyaviy audit\n🔥 To'liq avtomatlashtirilgan tizim\n🔥 Oyiga atigi 99 000 so'm\n\nKutib turing, hozir hech qanday to'lov qilmaysiz. Biz sizga 3 KUNLIK TO'LIQ BEPUL SINOV beramiz. \n\n👉 Hoziroq botga kiring va birinchi auditingizni bepul oling: @uzumuzsellerbot\n📞 Bog'lanish: @manejersupport",
+      "views": null,
+      "matched_keywords": [
+        "uzum"
+      ]
+    },
+    {
+      "id": 62,
+      "date": "2026-08-27T11:14:27+00:00",
+      "sender_id": 8527144288,
+      "sender_name": "Uzum fin",
+      "sender_username": "manejersupport",
+      "text": "🔥 Uzum Marketda savdo qilasiz, lekin qayerdadir pulingiz \"yeyilayotganini\" sezasizmi?\n\nTasavvur qiling: siz yangi tovarlar olib kelyapsiz, savdolar ketyapti... Lekin oy oxirida hisob-kitob qilsangiz, cho'ntakda kutilgan daromad yo'q. Tanish holatmi?\n\nKo'pchilik Uzum sellerlarining eng katta dushmani — bu ko'zga ko'rinmas yo'qotishlar:\n❌ Omborga yuborilgan, lekin qabul qilinmagan tovarlar;\n❌ Mijoz qaytargan, lekin omborga qaytib tushmagan mahsulotlar;\n❌ Noto'g'ri hisoblangan logistika yoki ortiqcha ushlangan komissiyalar...\n\nBiz aynan shu muammolarni avtomatlashtirilgan tarzda hal qilish uchun Uzum-Seller-FinBot ni yaratdik. Bizning maqsadimiz — sizning yo'qotilgan pullaringizni qidirib topish va ularni qaytarib olishingiz uchun tayyor da'vo (pretenziya) hujjatlarini chiqarib berish.\n\n🔥 6 xil chuqurlashtirilgan moliyaviy audit\n🔥 To'liq avtomatlashtirilgan tizim\n🔥 Oyiga atigi 99 000 so'm\n\nKutib turing, hozir hech qanday to'lov qilmaysiz. Biz sizga 3 KUNLIK TO'LIQ BEPUL SINOV beramiz. \n\n👉 Hoziroq botga kiring va birinchi auditingizni bepul oling: @uzumuzsellerbot\n📞 Bog'lanish: @manejersupport",
+      "views": null,
+      "matched_keywords": [
+        "uzum"
+      ]
+    },
+    {
+      "id": 48,
+      "date": "2026-07-17T11:28:52+00:00",
+      "sender_id": 915743099,
+      "sender_name": "Murodjonov Behruz",
+      "sender_username": "Behruz_M34",
+      "text": "Я создаю премиальную инфографику для Wildberries, Ozon и Uzum, которая делает товар заметнее, помогает заинтересовать покупателя и повышает доверие к бренду.\nЧто вы получите:\n✔ Уникальный дизайн без шаблонов\n✔ Современный премиальный стиль\n✔ Продуманную структуру для повышения CTR и конверсии\n✔ Инфографику, готовую к публикации\n✔ Быстрые правки и внимание к каждой детали\nПочему выбирают меня?\n• Анализирую конкурентов перед началом работы\n• Создаю дизайн, который выделяется в поисковой выдаче\n• Использую современные тренды и продающие композиции\n• Работаю с максимальной детализацией и качеством изображения\n• Делаю акцент не только на красоте, но и на эффективности карточкиЯ создаю премиальную инфографику для Wildberries, Ozon и Uzum 🛍️✨, которая делает товар заметнее, помогает заинтересовать покупателя и повышает доверие к бренду 📈.\n\nЧто вы получите:\n✔️ Уникальный дизайн без шаблонов 🎨\n✔️ Современный премиальный стиль 💎\n✔️ Продуманную структуру для повышения CTR и конверсии 🚀\n✔️ Инфографику, готовую к публикации ✅\n✔️ Быстрые правки и внимание к каждой детали 🔍\n\nПочему выбирают меня?\n• Анализирую конкурентов перед началом работы 🧐\n• Создаю дизайн, который выделяется в поисковой выдаче 🔥\n• Использую современные тренды и продающие композиции 📊\n• Работаю с максимальной детализацией и качеством изображения 🖼️\n• Делаю акцент не только на красоте, но и на эффективности карточки 💰\nhttps://t.me/design_infografika2",
+      "views": 0,
+      "matched_keywords": [
+        "бот",
+        "uzum",
+        "wildberries",
+        "ozon"
+      ]
+    },
+    {
+      "id": 46,
+      "date": "2026-07-10T17:49:28+00:00",
+      "sender_id": 6115902116,
+      "sender_name": "Kholikov Jurabek",
+      "sender_username": "kholikov_01s",
+      "text": "⚡️ Uzum omboriga (Kazan/Zelenodolsk) postavka qilish uchun slot topish charchatdimi?\nYukingiz tezroq sotuvga chiqishini istasangiz, poylashni robotga topshiring! 🦾\nAvtomatlashtirilgan aqlli botimiz bo'sh joy chiqishi bilan siz uchun darhol bron qiladi. \nSinab ko'rish va bot manzilini olish uchun hoziroq lichkamga yozing:\n📩 @MlzDataAdmin",
+      "views": null,
+      "matched_keywords": [
+        "uzum"
+      ]
+    },
+    {
+      "id": 42,
+      "date": "2026-06-13T08:15:39+00:00",
+      "sender_id": 8528834382,
+      "sender_name": "erwa",
+      "sender_username": null,
+      "text": "Куплю готовый аккаунт продавца Uzum (с пройденным KYC). Оплата USDT. Пишите в ЛС.",
+      "views": null,
+      "matched_keywords": [
+        "uzum"
+      ]
+    },
+    {
+      "id": 28,
+      "date": "2025-11-22T11:47:37+00:00",
+      "sender_id": 1747361598,
+      "sender_name": "Shahzoda",
+      "sender_username": "sobirjonovashahzoda",
+      "text": "🚀 Сделаю продающие карточки для Uzum!\nХотите, чтобы ваш товар выделялся среди сотен конкурентов и приносил больше продаж?\nЯ помогу вам оформить ваши товары красиво, стильно и профессионально!\n\n📸 Современный дизайн, который привлекает внимание покупателей с первых секунд\n⚡️ Быстрое выполнение без потери качества\n💰 Доступные цены — под любой бюджет\n🎨 Индивидуальный подход к каждому клиенту\n📦 Карточки, которые реально продают, а не просто украшают витрину\n\n🎁 АКЦИЯ: при заказе 3 карточек — 4-я в подарок!\nУспейте оформить заказ и получить стильный дизайн по выгодной цене 🔥\n\nПишите в личку — обсудим детали и создадим дизайн, который работает на ваши продажи 💬",
+      "views": null,
+      "matched_keywords": [
+        "бот",
+        "uzum",
+        "цены"
+      ]
+    },
+    {
+      "id": 21,
+      "date": "2025-11-10T16:39:04+00:00",
+      "sender_id": 1747361598,
+      "sender_name": "Shahzoda",
+      "sender_username": "sobirjonovashahzoda",
+      "text": "🚀 Сделаю продающие карточки для Uzum!\nХотите, чтобы ваш товар выделялся среди сотен конкурентов и приносил больше продаж?\nЯ помогу вам оформить ваши товары красиво, стильно и профессионально!\n\n📸 Современный дизайн, который привлекает внимание покупателей с первых секунд\n⚡️ Быстрое выполнение без потери качества\n💰 Доступные цены — под любой бюджет\n🎨 Индивидуальный подход к каждому клиенту\n📦 Карточки, которые реально продают, а не просто украшают витрину\n\n🎁 АКЦИЯ: при заказе 3 карточек — 4-я в подарок!\nУспейте оформить заказ и получить стильный дизайн по выгодной цене 🔥\n\nПишите в личку — обсудим детали и создадим дизайн, который работает на ваши продажи 💬",
+      "views": null,
+      "matched_keywords": [
+        "бот",
+        "uzum",
+        "цены"
+      ]
+    },
+    {
+      "id": 20,
+      "date": "2025-11-10T15:24:58+00:00",
+      "sender_id": 1747361598,
+      "sender_name": "Shahzoda",
+      "sender_username": "sobirjonovashahzoda",
+      "text": "Uzumda savdo qilasizmi?\n📸 Sizga professional kartochka dizayni kerak!\nChiroyli rasm – ko‘p xaridor demak 😉\nTez, sifatli, arzon narxlarda!",
+      "views": null,
+      "matched_keywords": [
+        "uzum"
+      ]
+    }
+  ]
+}

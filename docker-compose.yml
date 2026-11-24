@@ -1,0 +1,31 @@
+services:
+  demo-bot:
+    build: .
+    container_name: stockpulse-demo-bot
+    restart: always
+    command: python -u scripts/demo_bot.py
+    env_file:
+      - .env
+    volumes:
+      - ./logs:/app/logs
+    logging:
+      driver: "json-file"
+      options:
+        max-size: "10m"
+        max-file: "3"
+
+  lead-radar:
+    build: .
+    container_name: stockpulse-lead-radar
+    restart: always
+    command: python -u scripts/lead_radar.py
+    env_file:
+      - .env
+    volumes:
+      - ./raw_data:/app/raw_data
+      - ./logs:/app/logs
+    logging:
+      driver: "json-file"
+      options:
+        max-size: "10m"
+        max-file: "3"
